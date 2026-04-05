@@ -1,17 +1,38 @@
-## Bem-vindo(a) ao meu perfil 😁
+# Olá, eu sou o Nicolas Gabriel! 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
- 
+### 👨‍💻 Acadêmico de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia
 
- 
-###  Segue minhas redes abaixo!
- 
-<div> 
-  <a href="https://www.instagram.com/niczincrtt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:nicolasgabriel321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicthecreator" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Sou natural do Distrito Federal e atualmente curso ADS no **Centro Universitário UNIEURO**. Tenho uma base sólida em lógica de programação e estou constantemente aprimorando minhas habilidades em desenvolvimento de software e infraestrutura de TI.
+
+---
+
+### 🛠️ No que eu trabalho:
+
+* **Linguagens:** Python, JavaScript e C.
+* **Web Frontend:** Tailwind CSS e Bootstrap.
+* **Ferramentas:** Visual Studio Code, Git & GitHub.
+* **Sistemas Operacionais:** Entusiasta de Linux (Zorin OS, Pop!_OS, Ubuntu).
+* **Metodologias:** Modelagem de sistemas com diagramas UML.
+
+---
+
+### 📊 Projetos em Destaque:
+
+* **Sistema de Gestão Hospitalar:** Modelagem e desenvolvimento de lógica para fluxos complexos.
+* **Calculadora Financeira:** Projeto focado em automação de cálculos e interface funcional.
+* **Propostas de Infraestrutura:** Planejamento de equipamentos e hardware para o setor automotivo.
+
+---
+
+### 🌱 Aprendizado e Evolução:
+
+* 📖 Estudando **Inglês** para documentação e colaboração global.
+* ⚙️ Explorando profundamente **Hardware** e infraestrutura de servidores.
+* 🎖️ Trago do serviço militar a disciplina e o foco necessários para resolver problemas complexos.
+
+---
+
+### 📫 Como me encontrar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
