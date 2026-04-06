@@ -16,14 +16,6 @@ Sou natural do Distrito Federal e atualmente curso ADS no **Centro Universitári
 
 ---
 
-### 📊 Projetos em Destaque:
-
-* **Sistema de Gestão Hospitalar:** Modelagem e desenvolvimento de lógica para fluxos complexos.
-* **Calculadora Financeira:** Projeto focado em automação de cálculos e interface funcional.
-* **Propostas de Infraestrutura:** Planejamento de equipamentos e hardware para o setor automotivo.
-
----
-
 ### 🌱 Aprendizado e Evolução:
 
 * 📖 Estudando **Inglês** para documentação e colaboração global.
